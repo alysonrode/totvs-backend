@@ -1,0 +1,11 @@
+com/totvs/totvsapi/domain/exception/BillNotFoundException.class
+com/totvs/totvsapi/domain/service/IBillService.class
+com/totvs/totvsapi/domain/entity/SituationEnum.class
+com/totvs/totvsapi/domain/filter/PaymentFilter.class
+com/totvs/totvsapi/domain/BillController.class
+com/totvs/totvsapi/infrastructure/model/BillModel.class
+com/totvs/totvsapi/Application.class
+com/totvs/totvsapi/domain/filter/BillFilter.class
+com/totvs/totvsapi/domain/entity/Bill.class
+com/totvs/totvsapi/infrastructure/repository/BillRepository.class
+com/totvs/totvsapi/domain/service/BillService.class
