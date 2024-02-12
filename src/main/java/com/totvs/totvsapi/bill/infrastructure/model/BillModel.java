@@ -1,7 +1,7 @@
-package com.totvs.totvsapi.infrastructure.model;
+package com.totvs.totvsapi.bill.infrastructure.model;
 
 
-import com.totvs.totvsapi.domain.entity.SituationEnum;
+import com.totvs.totvsapi.bill.domain.entity.SituationEnum;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.util.GregorianCalendar;

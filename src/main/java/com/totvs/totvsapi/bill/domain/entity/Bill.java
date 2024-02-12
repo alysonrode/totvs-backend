@@ -1,6 +1,6 @@
-package com.totvs.totvsapi.domain.entity;
+package com.totvs.totvsapi.bill.domain.entity;
 
-import com.totvs.totvsapi.infrastructure.model.BillModel;
+import com.totvs.totvsapi.bill.infrastructure.model.BillModel;
 import java.math.BigDecimal;
 import java.text.DateFormat;
 import java.text.ParseException;

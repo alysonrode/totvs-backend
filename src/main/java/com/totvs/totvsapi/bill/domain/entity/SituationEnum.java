@@ -1,4 +1,4 @@
-package com.totvs.totvsapi.domain.entity;
+package com.totvs.totvsapi.bill.domain.entity;
 
 public enum SituationEnum
 {

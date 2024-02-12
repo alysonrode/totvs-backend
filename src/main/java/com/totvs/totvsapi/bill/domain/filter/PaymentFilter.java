@@ -1,4 +1,4 @@
-package com.totvs.totvsapi.domain.filter;
+package com.totvs.totvsapi.bill.domain.filter;
 
 import java.util.GregorianCalendar;
 

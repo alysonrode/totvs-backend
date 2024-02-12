@@ -1,11 +1,11 @@
-package com.totvs.totvsapi.domain;
+package com.totvs.totvsapi.bill.domain.controller;
 
-import com.totvs.totvsapi.domain.entity.Bill;
-import com.totvs.totvsapi.domain.entity.SituationEnum;
-import com.totvs.totvsapi.domain.exception.BillNotFoundException;
-import com.totvs.totvsapi.domain.filter.BillFilter;
-import com.totvs.totvsapi.domain.filter.PaymentFilter;
-import com.totvs.totvsapi.domain.service.IBillService;
+import com.totvs.totvsapi.bill.domain.entity.Bill;
+import com.totvs.totvsapi.bill.domain.filter.BillFilter;
+import com.totvs.totvsapi.bill.domain.entity.SituationEnum;
+import com.totvs.totvsapi.bill.domain.exception.BillNotFoundException;
+import com.totvs.totvsapi.bill.domain.filter.PaymentFilter;
+import com.totvs.totvsapi.bill.domain.service.IBillService;
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.UUID;

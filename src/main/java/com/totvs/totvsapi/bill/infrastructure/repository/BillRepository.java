@@ -1,6 +1,6 @@
-package com.totvs.totvsapi.infrastructure.repository;
+package com.totvs.totvsapi.bill.infrastructure.repository;
 
-import com.totvs.totvsapi.infrastructure.model.BillModel;
+import com.totvs.totvsapi.bill.infrastructure.model.BillModel;
 import java.math.BigDecimal;
 import java.util.GregorianCalendar;
 import java.util.List;

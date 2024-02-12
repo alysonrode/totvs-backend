@@ -1,4 +1,4 @@
-package com.totvs.totvsapi.domain.exception;
+package com.totvs.totvsapi.bill.domain.exception;
 
 import java.util.UUID;
 

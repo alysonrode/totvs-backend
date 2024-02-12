@@ -1,9 +1,10 @@
 package com.totvs.totvsapi.domain.service;
 
 
-import com.totvs.totvsapi.domain.entity.Bill;
-import com.totvs.totvsapi.domain.entity.SituationEnum;
-import com.totvs.totvsapi.domain.exception.BillNotFoundException;
+import com.totvs.totvsapi.bill.domain.entity.Bill;
+import com.totvs.totvsapi.bill.domain.entity.SituationEnum;
+import com.totvs.totvsapi.bill.domain.exception.BillNotFoundException;
+import com.totvs.totvsapi.bill.domain.service.BillService;
 import java.io.File;
 import java.io.IOException;
 import java.math.BigDecimal;
